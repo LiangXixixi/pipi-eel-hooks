@@ -1,0 +1,7 @@
+node_modules
+pnpm-debug
+example/node_modules
+example/.vscode
+example/dist
+example/pnpm-debug
+.idea
